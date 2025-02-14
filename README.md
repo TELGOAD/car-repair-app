@@ -1,1 +1,2 @@
-# car-repair-app
+Automotive Car Design - Website
+This is a simple HTML and CSS-based website for an automotive service center, offering car repair and maintenance services. The website includes key sections such as "Home," "Features," "Price," "Contact," and "Book Appointment."
